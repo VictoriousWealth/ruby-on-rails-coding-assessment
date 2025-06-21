@@ -9,42 +9,42 @@ This folder contains a moqqup for a full-stack Ruby on Rails project designed fo
 Here's a sneak peek for easy access:
 
 <details>
-  <summary>🔐 Login Page</summary>
+  <summary>🔐 Login Page - click toggle to open</summary>
 
   ![Login Page](./Login_Page.png)
 
 </details>
 
 <details>
-  <summary>👨‍⚕️ Doctor Dashboard</summary>
+  <summary>👨‍⚕️ Doctor Dashboard - click toggle to open</summary>
 
   ![Doctor Dashboard](./Doctor_dashboard_page.png)
 
 </details>
 
 <details>
-  <summary>🩺 Doctor/Nurse Patient View Page</summary>
+  <summary>🩺 Doctor/Nurse Patient View Page - click toggle to open</summary>
 
   ![Doctor/Nurse Patient View](./Patient_View_page_1.png)
 
 </details>
 
 <details>
-  <summary>👩‍💼 Receptionist Patient View Page</summary>
+  <summary>👩‍💼 Receptionist Patient View Page - click toggle to open</summary>
 
   ![Receptionist Patient View](./Patient_View_page.png)
 
 </details>
 
 <details>
-  <summary>👩‍💼 Receptionist Dashboard</summary>
+  <summary>👩‍💼 Receptionist Dashboard - click toggle to open</summary>
 
   ![Receptionist Dashboard](./Patients_dashboard_page.png)
 
 </details>
 
 <details>
-  <summary>👩‍💼 Receptionist Dashboard (With Patient Add Feature Version)</summary>
+  <summary>👩‍💼 Receptionist Dashboard (With Patient Add Feature Version) - click toggle to open</summary>
 
   ![Receptionist Dashboard (With Patient Add Feature Version)](./Patients_dashboard_page_1.png)
 

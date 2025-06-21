@@ -9,67 +9,67 @@ This folder contains a moqqup for a full-stack Ruby on Rails project designed fo
 Here's a sneak peek for easy access:
 
 <details>
-  <summary>🔐 Login Page</summary>
+  <summary>🔐 Login Page - click toggle to open</summary>
 
   ![Login Page](./Login_Page.png)
 
 </details>
 
----
+### Doctors and nurses only
 
 <details>
-  <summary>👨‍⚕️ Doctor/Nurse Dashboard</summary>
+  <summary>👨‍⚕️ Doctor/Nurse Dashboard - click toggle to open</summary>
 
   ![Doctor Dashboard](./Doctor/Doctor_dashboard_page.png)
 
 </details>
 
 <details>
-  <summary>🩺 Doctor/Nurse Patient View Page</summary>
+  <summary>🩺 Doctor/Nurse Patient View Page - click toggle to open</summary>
 
   ![Doctor/Nurse Patient View](./Doctor/Patient_View_page_for_doctorsnurses.png)
 
 </details>
 
 <details>
-  <summary>💊 Prescription Add Page</summary>
+  <summary>💊 Prescription Add Page - click toggle to open</summary>
 
   ![Prescription Add Page](./Doctor/Prescription_Add_page.png)
 
 </details>
 
 <details>
-  <summary>💉 Treatment Add Page</summary>
+  <summary>💉 Treatment Add Page - click toggle to open</summary>
 
   ![Treatment Add Page](./Doctor/Treatment_Add_page.png)
 
 </details>
 
----
+### Receptionits only
 
 <details>
-  <summary>👩‍💼 Receptionist Patient View Page</summary>
+  <summary>👩‍💼 Receptionist Patient View Page - click toggle to open</summary>
 
   ![Receptionist Patient View](./Receptionist/Patient_View_page_for_receptionists.png)
 
 </details>
 
 <details>
-  <summary>👩‍💼 Receptionist Dashboard</summary>
+  <summary>👩‍💼 Receptionist Dashboard - click toggle to open</summary>
 
   ![Receptionist Dashboard](./Receptionist/Patients_dashboard_page.png)
 
 </details>
 
 <details>
-  <summary>👩‍💼 Receptionist Dashboard (With Patient Add Feature Version)</summary>
+  <summary>👩‍💼 Receptionist Dashboard (With Patient Add Feature Version) - click toggle to open</summary>
 
   ![Receptionist Dashboard (With Patient Add Feature Version)](./Receptionist/Patients_dashboard_page_1.png)
 
 </details>
 
 <details>
-  <summary>🗓️ Appointment Add/Edit Form Page</summary>
+  <summary>🗓️ Appointment Add/Edit Form Page - click toggle to open</summary>
 
   ![Appointment Add/Edit Form Page](./Receptionist/Appointment_AddEdit_page.png)
 

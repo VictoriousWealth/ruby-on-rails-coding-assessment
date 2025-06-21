@@ -71,7 +71,7 @@ This folder contains a moqqup for a full-stack Ruby on Rails project designed fo
 | Patient CRUD              | ✅            | ❌            |
 | Appointment Scheduling    | ✅            | ❌ (view-only)|
 | Graph + Daily Schedule    | ❌            | ✅            |
-| Treatment/Prescription Add| ✅            | ❌ (view-only)|
+| Treatment/Prescription Add| ❌ (view-only)| ✅            |
 | View Patient Records      | ✅            | ✅            |
 
 ---

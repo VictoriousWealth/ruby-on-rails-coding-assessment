@@ -82,17 +82,17 @@ Here's a sneak peek for easy access:
 ```bash
 
 v3.0/
-├── Login\_Page.png
+├── Login_Page.png
 ├── doctor/
-│   ├── Doctor\_dashboard\_page.png
-│   ├── Patient\_View\_page\_for\_doctorsnurses.png
-│   ├── Prescription\_Add\_page.png
-│   └── Treatment\_Add\_page.png
+│   ├── Doctor_dashboard_page.png
+│   ├── Patient_View_page_for_doctorsnurses.png
+│   ├── Prescription_Add_page.png
+│   └── Treatment_Add_page.png
 └── receptionist/
-├── Appointment\_AddEdit\_page.png
-├── Patient\_View\_page\_for\_receptionists.png
-├── Patients\_dashboard\_page.png
-└── Patients\_dashboard\_page\_1.png
+├── Appointment_AddEdit_page.png
+├── Patient_View_page_for_receptionists.png
+├── Patients_dashboard_page.png
+└── Patients_dashboard_page_1.png
 
 ```
 

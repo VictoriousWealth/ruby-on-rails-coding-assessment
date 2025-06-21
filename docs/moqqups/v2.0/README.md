@@ -8,26 +8,54 @@ This folder contains a moqqup for a full-stack Ruby on Rails project designed fo
 
 Here's a sneak peek for easy access:
 
-### 🔐 Login Page
-![Login Page](./Login_Page.png)
+<details>
+  <summary>🔐 Login Page</summary>
 
-### 👨‍⚕️ Doctor Dashboard
-![Doctor Dashboard](./Doctor_dashboard_page.png)
+  ![Login Page](./Login_Page.png)
 
-### 🩺 Doctor/Nurse Patient View Page
-![Doctor/Nurse Patient View](./Patient_View_page_1.png)
+</details>
 
-### 👩‍💼 Receptionist Patient View Page
-![Receptionist Patient View](./Patient_View_page.png)
+<details>
+  <summary>👨‍⚕️ Doctor Dashboard</summary>
 
-### 👩‍💼 Receptionist Dashboard
-![Receptionist Dashboard](./Patients_dashboard_page.png)
+  ![Doctor Dashboard](./Doctor_dashboard_page.png)
 
-### 👩‍💼 Receptionist Dashboard (With Patient Add Feature Version)
-![Receptionist Dashboard (With Patient Add Feature Version)](./Patients_dashboard_page_1.png)
+</details>
 
-### 🗓️ Appointment Add/Edit Form Page
-![Appointment Add/Edit Form Page](./Appointment_View_page.png)
+<details>
+  <summary>🩺 Doctor/Nurse Patient View Page</summary>
+
+  ![Doctor/Nurse Patient View](./Patient_View_page_1.png)
+
+</details>
+
+<details>
+  <summary>👩‍💼 Receptionist Patient View Page</summary>
+
+  ![Receptionist Patient View](./Patient_View_page.png)
+
+</details>
+
+<details>
+  <summary>👩‍💼 Receptionist Dashboard</summary>
+
+  ![Receptionist Dashboard](./Patients_dashboard_page.png)
+
+</details>
+
+<details>
+  <summary>👩‍💼 Receptionist Dashboard (With Patient Add Feature Version)</summary>
+
+  ![Receptionist Dashboard (With Patient Add Feature Version)](./Patients_dashboard_page_1.png)
+
+</details>
+
+<details>
+  <summary>🗓️ Appointment Add/Edit Form Page</summary>
+
+  ![Appointment Add/Edit Form Page](./Appointment_View_page.png)
+
+</details>
 
 ---
 

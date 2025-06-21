@@ -3,6 +3,42 @@
 This folder contains a moqqup for a full-stack Ruby on Rails project designed for the **2025 Ruby on Rails Coding Assessment** for **makerble**. It introduces a structured, role-based architecture, clearer file separation, and refined user experiences for **Receptionists**, **Doctors**, and **Nurses**.
 
 ---
+## 🗂️ A Bit of an Overview
+
+Here's a sneak peek for easy access:
+
+### 🔐 Login Page
+![Login Page](./Login_Page.png)
+
+---
+
+### 👨‍⚕️ Doctor/Nurse Dashboard
+![Doctor Dashboard](./Doctor/Doctor_dashboard_page.png)
+
+### 🩺 Doctor/Nurse Patient View Page
+![Doctor/Nurse Patient View](./Doctor/Patient_View_page_for_doctorsnurses.png)
+
+### 💊 Prescription Add Page
+![Prescription Add Page](./Doctor/Prescription_Add_page.png)
+
+### 💉 Treatment Add Page
+![Treatment Add Page](./Doctor/Treatment_Add_page.png)
+
+---
+
+### 👩‍💼 Receptionist Patient View Page
+![Receptionist Patient View](./Receptionist/Patient_View_page_for_receptionists.png)
+
+### 👩‍💼 Receptionist Dashboard
+![Receptionist Dashboard](./Receptionist/Patients_dashboard_page.png)
+
+### 👩‍💼 Receptionist Dashboard (With Patient Add Feature Version)
+![Receptionist Dashboard (With Patient Add Feature Version)](./Receptionist/Patients_dashboard_page_1.png)
+
+### 🗓️ Appointment Add/Edit Form Page
+![Appointment Add/Edit Form Page](./Receptionist/Appointment_AddEdit_page.png)
+
+---
 
 ## 📁 Directory Structure
 

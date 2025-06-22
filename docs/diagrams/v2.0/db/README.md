@@ -1,4 +1,4 @@
-# ✅ Entity Relationship Diagram (Visual diagram)
+# ✅ Entity Relationship Diagram 
 
 ---
 

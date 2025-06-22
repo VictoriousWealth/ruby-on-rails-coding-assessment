@@ -1,8 +1,18 @@
-# ✅ Entity Relationship Diagram (Text Representation)
+# ✅ Entity Relationship Diagram (Visual diagram)
 
 ---
 
-## `users`
+## ✅ Entity Relationship Diagram (Visual diagram)
+
+![Database diagram](./db_diagram.png)
+
+---
+
+## ✅ Entity Relationship Diagram (Text Representation)
+
+---
+
+### `users`
 
 | Field            | Type      | Description                      |
 | ---------------- | --------- | -------------------------------- |
@@ -15,7 +25,7 @@
 
 ---
 
-## `patients`
+### `patients`
 
 | Field           | Type      | Description                          |
 | --------------- | --------- | ------------------------------------ |
@@ -31,7 +41,7 @@
 
 ---
 
-## `appointments`
+### `appointments`
 
 | Field           | Type      | Description                          |
 | --------------- | --------- | ------------------------------------ |
@@ -45,7 +55,7 @@
 
 ---
 
-## `appointment_participants`
+### `appointment_participants`
 
 | Field           | Type      | Description                          |
 | --------------- | --------- | ------------------------------------ |
@@ -58,7 +68,7 @@
 
 ---
 
-## `treatments`
+### `treatments`
 
 | Field            | Type      | Description                          |
 | ---------------- | --------- | ------------------------------------ |
@@ -74,7 +84,7 @@
 
 ---
 
-## `prescriptions`
+### `prescriptions`
 
 | Field               | Type      | Description                            |
 | ------------------- | --------- | -------------------------------------- |
@@ -90,7 +100,7 @@
 
 ---
 
-# 🧠 Relationships Summary 
+## 🧠 Relationships Summary 
 
 * `User` has many:
 
@@ -106,12 +116,5 @@
   * `prescriptions`
 
 * `Appointment` has many `users` through `appointment_participants`
-
----
-
-# Visual diagram
-
-![Database diagram](./db_diagram.png)
-
 
 ---

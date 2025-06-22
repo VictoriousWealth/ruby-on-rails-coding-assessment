@@ -93,14 +93,14 @@ v3.0/
 │   ├── Patient_View_page_for_receptionists.png
 │   ├── Patients_dashboard_page.png
 │   └── Patients_dashboard_page_1.png
-└── user_flow_diagram.pdf
+└── user_flow_diagram.png
 ```
 
 ---
 
 ## User flow diagram
 
-![User flow diagram](./user_flow_diagram.pdf)
+![User flow diagram](./user_flow_diagram.png)
 
 ---
 

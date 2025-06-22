@@ -221,12 +221,9 @@ Login →
 
 ---
 
-## ✅ What’s New in v3.0
+## ✅ What’s New in v4.0
 
-* 🔁 Organized directory structure (`doctor/`, `receptionist/`)
-* 🧑‍🤝‍🧑 Finalised unified UI for doctors and nurses
-* 🗃 Modular form pages for appointments, prescriptions, and treatments
-* 🧼 Cleaner, professional UI per role
+* 🗃 User flow diagram is now here !!!
 
 ---
 

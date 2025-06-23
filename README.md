@@ -139,7 +139,7 @@ You can also view both parts directly via [**Google Drive**](https://drive.googl
 
 ### Visual ER Diagram
 
-[Database Diagram](./docs/diagrams/v2.0/db/db_diagram.png)
+![Database Diagram](./docs/diagrams/v2.0/db/db_diagram.png)
 
 ### Table Summary
 
@@ -150,7 +150,7 @@ You can also view both parts directly via [**Google Drive**](https://drive.googl
 * **Treatments:** Medical treatments and follow-up info
 * **Prescriptions:** Prescription records with active status
 
-A more detailed README can be found at ![Database README](./docs/diagrams/v2.0/db/README.md)
+A more detailed README can be found at [Database README](./docs/diagrams/v2.0/db/README.md)
 
 ---
 
@@ -212,6 +212,6 @@ ruby-on-rails-coding-assessment/
 
 ## 👨‍💻 **Author**
 
-Developed by **Efeon \[Nick]**, as part of the **2025 Ruby on Rails Coding Assessment**.
+Developed by **Nick Efe Oni**, as part of the **2025 Ruby on Rails Coding Assessment**.
 
 ---

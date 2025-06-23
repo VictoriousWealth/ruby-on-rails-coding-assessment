@@ -139,7 +139,7 @@ You can also view both parts directly via [**Google Drive**](https://drive.googl
 
 ### Visual ER Diagram
 
-![Database Diagram](./docs/diagrams/v2.0/db/db_diagram.png)
+[Database Diagram](./docs/diagrams/v2.0/db/db_diagram.png)
 
 ### Table Summary
 

@@ -8,14 +8,14 @@ This project was developed as part of the **2025 Ruby on Rails Coding Assessment
 
 ## 🎯 **Project Features**
 
-✔ Role-specific user flows for Receptionists, Doctors, and Nurses
-✔ Secure authentication with Devise
-✔ Appointment scheduling with participant management
-✔ Prescription creation and deactivation
-✔ Treatment records with follow-up tracking
-✔ Real-time role-based dashboards
-✔ Mobile-responsive, Bootstrap-powered UI
-✔ Data integrity with strong ActiveRecord associations
+- ✔ Role-specific user flows for Receptionists, Doctors, and Nurses
+- ✔ Secure authentication with Devise
+- ✔ Appointment scheduling with participant management
+- ✔ Prescription creation and deactivation
+- ✔ Treatment records with follow-up tracking
+- ✔ Real-time role-based dashboards
+- ✔ Mobile-responsive, Bootstrap-powered UI
+- ✔ Data integrity with strong ActiveRecord associations
 
 ---
 
@@ -33,13 +33,9 @@ The system walkthrough is split into two parts:
 [Download Part 2](./demo/part%202.mp4)  
 *Covers doctor and nurse workflows, prescriptions, treatments, and system restrictions.*
 
----
-
 ### 🔗 **Prefer to Stream?**
 
 You can also view both parts directly via [**Google Drive**](https://drive.google.com/drive/folders/1bF9i9xgyOUDFfBdAakh9kmIsG2pWHRYn?usp=sharing).
-
----
 
 ⚠️ *Note: `.mp4` files linked above will download locally — direct playback within GitHub is not supported.*
 

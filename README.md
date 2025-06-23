@@ -21,29 +21,25 @@ This project was developed as part of the **2025 Ruby on Rails Coding Assessment
 
 ## 🖥 **Demo Videos**
 
-<details>
-<summary>📽️ Full System Walkthrough (Part 1)</summary>
+###📽️ Full System Walkthrough (Part 1)
 
-[Watch Part 1](./demo/part1.mp4)
+[Watch Part 1](./demo/part 1.mp4)
 
 *Covers login, receptionist workflows, patient management, appointment creation*
 
-</details>
+###📽️ Full System Walkthrough (Part 2)
 
-<details>
-<summary>📽️ Full System Walkthrough (Part 2)</summary>
-
-[Watch Part 2](./demo/part2.mp4)
+[Watch Part 2](./demo/part 2.mp4)
 
 *Covers doctor and nurse workflows, prescriptions, treatments, and system restrictions*
 
-</details>
+You can also view them using this google drive link [here](https://drive.google.com/drive/folders/1bF9i9xgyOUDFfBdAakh9kmIsG2pWHRYn?usp=sharing).
 
 ---
 
 ## 🗺 **User Flow Overview**
 
-![User Flow Diagram](./user_flow_diagram.png)
+![User Flow Diagram](.docs/diagrams/v2.0/user_flow_diagram.png)
 
 **Key Flows:**
 
